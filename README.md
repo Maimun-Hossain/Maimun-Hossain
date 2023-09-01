@@ -1,5 +1,5 @@
 # 👽 About Me:
-🟢 My Website coming soon.<br>👨‍💻 I’m currently working on Website, Web-Design, Discord Bot and GTA SA:MP;<br>📗 Coding knowledge: HTML,CSS,JAVA,C,PYTHON,C++..<br>💚 I’m looking to collaborate on with other developers and learn more from them!<br>🧩 I’m looking for help with any projects related to my work experience.<br>🍀 I’m currently learning Web Development.<br>🧶 Ask me about any web related questions..<br>🔋 Active since 2020.
+🟢 My Website coming soon.<br>👨‍💻 I’m currently working on Website, Web-Design, Discord Bot and GTA SA:MP;<br>📗 Coding knowledge: HTML,CSS,JAVA,C,PYTHON,C++..<br>💚 I’m looking to collaborate on with other developers and learn more from them!<br>🧩 I’m looking for help with any projects related to my work experience.<br>🍀 I’m currently learning Web Development.<br>🗾 Ask me about any web related questions..<br>🔋 Active since 2020.
 
 
 ## 👽 Socials:
