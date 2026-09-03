@@ -21,5 +21,5 @@
 </p>
 
 <h1 align="center">
-  Tech Stack <img src="https://cdn3.emoji.gg/emojis/921655-ai.png" width="32" />& Tooling
+  Tech Stack & Tooling <img src="https://cdn3.emoji.gg/emojis/921655-ai.png" width="32" />
 </h1>
