@@ -41,16 +41,16 @@
 <div align="center">
 
 <a href="https://github.com/maimun-hossain">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=maimun-hossain&show_icons=true&theme=tokyonight&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview Stats" height="175px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=maimun-hossain&show_icons=true&theme=tokyonight&bg_color=000000&title_color=52c76d&icon_color=52c76d&text_color=e6edf3&border_color=52c76d&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview Stats" height="175px" />
 </a>
 <a href="https://github.com/maimun-hossain">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maimun-hossain&layout=compact&theme=tokyonight&bg_color=000000&title_color=10B981&text_color=e6edf3&border_color=10B981&border_radius=8&hide_border=false&langs_count=8" alt="Most Used Languages" height="175px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maimun-hossain&layout=compact&theme=tokyonight&bg_color=000000&title_color=52c76d&text_color=e6edf3&border_color=52c76d&border_radius=8&hide_border=false&langs_count=8" alt="Most Used Languages" height="175px" />
 </a>
 
 <br/>
 
 <a href="https://github.com/maimun-hossain">
-  <img src="https://streak-stats.demolab.com/?user=maimun-hossain&theme=tokyonight&background=000000&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=e6edf3&border=10B981&stroke=10B981&dates=888888&border_radius=8" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=maimun-hossain&theme=tokyonight&background=000000&ring=52c76d&fire=52c76d&currStreakLabel=52c76d&sideLabels=e6edf3&border=52c76d&stroke=52c76d&dates=888888&border_radius=8" alt="GitHub Streak Stats" />
 </a>
 
 </div>
