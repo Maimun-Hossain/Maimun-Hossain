@@ -1,5 +1,3 @@
-![Maimun Hossain Banner](https://via.placeholder.com/1200x300?text=Maimun+Hossain)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Engineer;Crafting[...]
+<img width="1983" height="793" alt="ChatGPT Image Sep 2, 2026, 04_14_59 AM" src="https://github.com/user-attachments/assets/fc829fba-88d8-415e-ba89-bf86a7454f3d" />
 </p>
