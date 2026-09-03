@@ -34,3 +34,21 @@
 | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |  | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) |
 | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) |  |  | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |  |  | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+
+---
+
+## Connect & Collaborate
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-maimun-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maimun)
+[![Email](https://img.shields.io/badge/Email-hello%40maimun-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maimun78l@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maimun--hossain-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fajle-rabbi-choyon)
+[![GitHub](https://img.shields.io/badge/GitHub-maimun--hossain-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maimun-hossain)
+
+<br/>
+
+**Available for Al/ML projects, technical consulting, and development contracts.**  
+*Dhaka, Bangladesh • GMT+6*
+
+</div>
