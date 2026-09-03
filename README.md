@@ -98,3 +98,5 @@
 *Dhaka, Bangladesh • GMT+6*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:34D399,100:059669&height=120&section=footer&animation=fadeIn" width="100%"/>
