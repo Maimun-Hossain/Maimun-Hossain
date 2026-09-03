@@ -99,4 +99,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:34D399,100:059669&height=120&section=footer&animation=fadeIn" width="100%"/>
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52c76d,50:52c76d,100:52c76d&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
