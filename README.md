@@ -3,8 +3,9 @@
 </p>
 
 <h1 align="center">
+  Hi, 
   <img src="https://cdn3.emoji.gg/emojis/50053-pawwave8.gif" width="32" />
-  Hi, I'm <strong>Maimun Hossain</strong>
+  I'm <strong>Maimun Hossain</strong>
 </h1>
 
 <p align="center">
