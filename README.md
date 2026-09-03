@@ -23,7 +23,7 @@
 `🔴🟢🟡 Maimmun.Hossain —⠀I'm a CSE student who enjoys building websites and learning new things in tech. I like turning ideas into simple, useful projects and improving my skills along the way. I'm always curious to explore new technologies and take on new challenges.`
 
 <h1 align="center">
-  Tech Stack & Tooling <img src="https://cdn3.emoji.gg/emojis/921655-ai.png" width="32" />
+  Tech Stack & Tooling
 </h1>
 
 <div align="center">
@@ -42,7 +42,7 @@
 </div>
 
 <h1 align="center">
-  Analytics <img src="https://cdn3.emoji.gg/emojis/2690-chart.png" width="32" />
+  Analytics
 </h1>
 <div align="center">
 
@@ -82,7 +82,7 @@
 </picture>
   
 <h1 align="center">
-  Connect & Collaborate <img src="https://cdn3.emoji.gg/emojis/600404-handshake.png" width="32" />
+  Connect & Collaborate
 </h1>
 
 <div align="center">
@@ -95,6 +95,7 @@
 <br/>
 
 **Available for Al/ML projects, technical consulting, and development contracts.**  
+
 *Dhaka, Bangladesh • GMT+6*
 
 </div>
