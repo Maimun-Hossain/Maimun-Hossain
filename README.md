@@ -60,6 +60,12 @@
 </div>
 
 <div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maimun-hossain/maimun-hossain/output/github-snake-pink.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maimun-hossain/maimun-hossain/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/maimun-hossain/maimun-hossain/output/github-snake.svg" width="100%">
+  </picture>
   
 <h1 align="center">
   Connect & Collaborate <img src="https://cdn3.emoji.gg/emojis/600404-handshake.png" width="32" />
