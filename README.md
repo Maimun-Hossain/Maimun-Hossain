@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-<img alt="ChatGPT Image" src="https://cdn.discordapp.com/attachments/1155432355444572231/1545012433804857434/249bfc5a-3930-43bc-a0a8-8b3d3ce50938.png?ex=6a9a9875&is=6a9946f5&hm=8b978dfcf118d1649ec68e962b24792488294f0dd06d5a2e1934f36d7454b78b&" />
+<img alt="ChatGPT Image" src="https://cdn.discordapp.com/attachments/1155432355444572231/1545013927124148274/file_00000000393082119423cd29674ca7b7.png?ex=6a9a99d9&is=6a994859&hm=506a6df88877ee9b1627ae7a79003e53f23bf1a5d07dda53f85a554f948af241&" />
 </p>
