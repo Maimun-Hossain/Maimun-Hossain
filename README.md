@@ -17,3 +17,7 @@
   <a href="https://github.com/maimun-hossain?tab=followers"><img src="https://img.shields.io/github/followers/maimun-hossain?style=for-the-badge&color=52c76d&labelColor=0d1117&logo=github" alt="Followers" /></a>
   <a href="https://maimun"><img src="https://img.shields.io/badge/maimun-52c76d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
+
+<p align="center">
+<img alt="ChatGPT Image" src="https://cdn.discordapp.com/attachments/1155432355444572231/1545010965626626108/Codex_Image_Sep_3_2026_04_01_20_PM.png?ex=6a9a9717&is=6a994597&hm=c4c23a33b457f8ffb6b52b6b9df706e9f24b9522d40ab37410e3342cb812dcdb&" />
+</p>
