@@ -35,10 +35,8 @@
 | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white) |  |  | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |  |  | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
 
----
-
 <h1 align="center">
-  Connect & Collaborate <img src="https://cdn3.emoji.gg/emojis/921655-ai.png" width="32" />
+  Connect & Collaborate <img src="https://cdn3.emoji.gg/emojis/600404-handshake.png" width="32" />
 </h1>
 
 <div align="center">
