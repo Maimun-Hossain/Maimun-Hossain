@@ -10,5 +10,5 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=25&pause=1000&color=52C66E&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Discord+Bot+%26+Mini+Game+Developer;Building+Real+World+Projects" alt="Typing SVG" />
-<h3>CSE Student | Aspiring Software Engineer | Full Stack Developer</h3>
 </p>
+<h3 align="center">CSE Student | Aspiring Software Engineer | Full Stack Developer</h3>
