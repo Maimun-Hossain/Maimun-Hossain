@@ -2,8 +2,10 @@ name: Generate contribution snake 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:       # lets you run it manually from the Actions tab
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
   push:
     branches:
       - main
@@ -15,14 +17,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: maimun-hossain
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-pink.svg?color_snake=#52c76d&color_dots=#1f6336,#2f8f4e,#3eaa5d,#52c76d,#7ddd92
+            dist/github-snake.svg?color_snake=#52c76d&color_dots=#1f6336,#2f8f4e,#3eaa5d,#52c76d,#7ddd92
+            dist/github-snake-dark.svg?color_snake=#52c76d&color_dots=#1f6336,#2f8f4e,#3eaa5d,#52c76d,#7ddd92
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
