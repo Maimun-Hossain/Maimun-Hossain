@@ -19,7 +19,8 @@
 <p align="center">
 <img alt="ChatGPT Image" src="https://cdn.discordapp.com/attachments/1155432355444572231/1545013927124148274/file_00000000393082119423cd29674ca7b7.png?ex=6a9a99d9&is=6a994859&hm=506a6df88877ee9b1627ae7a79003e53f23bf1a5d07dda53f85a554f948af241&" />
 </p>
-`🔴🟢🟡 Maimmun.Hossain —⠀I'm a CSE student and aspiring Web Developer passionate about building clean, user-friendly, and practical web experiences. I enjoy learning new technologies, solving problems, and turning ideas into real projects.`
+
+`🔴🟢🟡 Maimmun.Hossain —⠀I'm a CSE student who enjoys building websites and learning new things in tech. I like turning ideas into simple, useful projects and improving my skills along the way. I'm always curious to explore new technologies and take on new challenges.`
 
 <h1 align="center">
   Tech Stack & Tooling <img src="https://cdn3.emoji.gg/emojis/921655-ai.png" width="32" />
