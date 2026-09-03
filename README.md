@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">CSE Student | Aspiring Software Engineer | Full Stack Developer</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maimun-hossain&style=for-the-badge&color=10B981&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/maimun-hossain?tab=followers"><img src="https://img.shields.io/github/followers/maimun-hossain?style=for-the-badge&color=10B981&labelColor=0d1117&logo=github" alt="Followers" /></a>
-  <a href="https://maimun"><img src="https://img.shields.io/badge/maimun-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <img src="https://komarev.com/ghpvc/?username=maimun-hossain&style=for-the-badge&color=52c76d&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/maimun-hossain?tab=followers"><img src="https://img.shields.io/github/followers/maimun-hossain?style=for-the-badge&color=52c76d&labelColor=0d1117&logo=github" alt="Followers" /></a>
+  <a href="https://maimun"><img src="https://img.shields.io/badge/maimun-52c76d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>
