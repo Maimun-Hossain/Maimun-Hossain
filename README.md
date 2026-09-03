@@ -41,10 +41,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-maimun-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maimun)
-[![Email](https://img.shields.io/badge/Email-hello%40maimun-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maimun78l@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maimun--hossain-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maimun-hossain)
-[![GitHub](https://img.shields.io/badge/GitHub-maimun--hossain-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maimun-hossain)
+[![Website](https://img.shields.io/badge/Website-maimun-52c76d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maimun)
+[![Email](https://img.shields.io/badge/Email-hello%40maimun-52c76d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maimun78l@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maimun--hossain-52c76d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maimun-hossain)
+[![GitHub](https://img.shields.io/badge/GitHub-maimun--hossain-52c76d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maimun-hossain)
 
 <br/>
 
