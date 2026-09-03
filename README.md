@@ -1,7 +1,12 @@
+<div style="background-color: #1a4d2e; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+  <h1 style="color: #ffffff; text-align: center; margin: 0;">Welcome to My GitHub Profile</h1>
+  <p style="color: #e0e0e0; text-align: center; margin: 10px 0 0 0;">Open-source maintainer & aspiring software engineer</p>
+</div>
+
 ## Open-source maintainer
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=maimun-hossain&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139581936%3Fu%3Dbaf9c2b23bb2eff98e5f2677d12b588f636b62df%26v%3D4" alt="maimun-hossain hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=maimun-hossain&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139581936%3Fu%3Dbaf9c2b23bb2eff98e5f2677d12b588f636b[...]
 </p>
 
 **Maimun Hossain** · Open-source maintainer
@@ -26,13 +31,13 @@
 <p><code>maimun-hossain@github:~$ toolbox --list</code></p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=maimun-hossain&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139581936%3Fu%3Dbaf9c2b23bb2eff98e5f2677d12b588f636b62df%26v%3D4&style=terminal" alt="maimun-hossain stack visual" />
+  <img src="https://www.gitskins.com/api/section/stack?username=maimun-hossain&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139581936%3Fu%3Dbaf9c2b23bb2eff98e5f2677d12b588f636b62d[...]
 </p>
 
 ## Community notes
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=maimun-hossain&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139581936%3Fu%3Dbaf9c2b23bb2eff98e5f2677d12b588f636b62df%26v%3D4" alt="maimun-hossain highlights visual" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=maimun-hossain&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139581936%3Fu%3Dbaf9c2b23bb2eff98e5f2677d12b588f6[...]
 </p>
 
 <p><b>Maimun Hossain</b> is shipping 28 public projects with 24 stars of proof.</p>
@@ -46,7 +51,7 @@
 ## Contribute together
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=maimun-hossain&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139581936%3Fu%3Dbaf9c2b23bb2eff98e5f2677d12b588f636b62df%26v%3D4" alt="maimun-hossain social visual" />
+  <img src="https://www.gitskins.com/api/section/social?username=maimun-hossain&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F139581936%3Fu%3Dbaf9c2b23bb2eff98e5f2677d12b588f636b6[...]
 </p>
 
 <a href="https://github.com/maimun-hossain">GitHub</a> · <a href="https://x.com/HossainMaimun">X</a>
