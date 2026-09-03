@@ -22,7 +22,7 @@ jobs:
           github_user_name: maimun-hossain
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-pink.svg?color_snake=#ff7eb6&color_dots=#2d1b4e,#5b2a86,#8b5cf6,#c084fc,#ff7eb6
+            dist/github-snake-pink.svg?color_snake=#52c76d&color_dots=#1f6336,#2f8f4e,#3eaa5d,#52c76d,#7ddd92
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
