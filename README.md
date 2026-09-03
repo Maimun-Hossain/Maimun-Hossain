@@ -37,7 +37,9 @@
 
 ---
 
-## Connect & Collaborate
+<h1 align="center">
+  Connect & Collaborate <img src="https://cdn3.emoji.gg/emojis/921655-ai.png" width="32" />
+</h1>
 
 <div align="center">
 
