@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="ChatGPT Image" src="https://media.discordapp.net/attachments/1155432355444572231/1544984515339100303/20260903_141631.png?ex=6a9a7e74&is=6a992cf4&hm=0bd5a0e61f12308b4ce1715c91a9c472edc3cff5edc405de75a9d1cdf53f805c&=&format=webp&quality=lossless" />
+<img alt="Banner Image" src="https://media.discordapp.net/attachments/1155432355444572231/1544984515339100303/20260903_141631.png?ex=6aacf374&is=6aaba1f4&hm=9c1f5a394fb8e78f0f74720514f6fabb653144b07f55812c9646520c6909a8af&=&format=webp&quality=lossless" />
 </p>
 
 <h1 align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img alt="ChatGPT Image" src="https://cdn.discordapp.com/attachments/1155432355444572231/1545013927124148274/file_00000000393082119423cd29674ca7b7.png?ex=6a9a99d9&is=6a994859&hm=506a6df88877ee9b1627ae7a79003e53f23bf1a5d07dda53f85a554f948af241&" />
+<img alt="ChatGPT Image" src="https://media.discordapp.net/attachments/1155432355444572231/1545013927124148274/file_00000000393082119423cd29674ca7b7.png?ex=6aad0ed9&is=6aabbd59&hm=395f97d364866121bd0a1814d914f2290ba15ced65f127d3d0e28eb5fe266366&=&format=webp&quality=lossless&width=1024&height=683" />
 </p>
 
 `🔴🟢🟡 Maimmun.Hossain —⠀I'm a CSE student who enjoys building websites and learning new things in tech. I like turning ideas into simple, useful projects and improving my skills along the way. I'm always curious to explore new technologies and take on new challenges.`
